@@ -1,4 +1,4 @@
-# Docker in Production using AWS CloudFormation EC2 Lifecycle Hooks Lambda Function
+# Docker in Production using AWS EC2 Lifecycle Hooks Lambda Function
 
 This repository defines a Lamdba function called `lifecycleHooks`, which is included with the Pluralsight course [Docker in Production using Amazon Web Services](https://app.pluralsight.com/library/courses/docker-production-using-amazon-web-services/table-of-contents).
 
